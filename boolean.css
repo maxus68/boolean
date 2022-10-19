@@ -1,0 +1,16 @@
+body{background-image: url("./Img/background.jpg"); background-size: cover }
+h1{color: #00DB00; font-weight: bold; font-family: calibri}
+h2{color: white; font-weight: bold; font-family: calibri}
+h3{color: white;font-weight: normal; font-family: calibri}
+li{color:white}
+
+.boxtrasp{width: 1000px; height: 650px; background-color: black; opacity: 0.5; border-radius: 15px;position: absolute; top: 50px; left:300px}
+.boxlogo{width: 1000px; height: 150px; top:80px; left:300px; position: absolute; text-align: center}
+.boxverde{width: 800px; height: 40px; margin: auto;background-color: #00DB00}
+.box1{width: 800px; height: 30px; margin: auto; position: relative; top:310px; line-height: 5px}
+.box2{width: 800px; height: 30px; margin: auto; position: relative; top:380px; line-height: 5px}
+.box3{width: 800px; height: 30px; margin: auto; position: relative; top:450px; line-height: 5px}
+
+#gino{width: 300px; height: 20px; background-color: #FFB432; border-radius: 5px}
+#mike{width: 470px; height: 20px; background-color: #00DB00; border-radius: 5px}
+#fede{width: 140px; height: 20px; background-color: #D30011; border-radius: 5px}
